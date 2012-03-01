@@ -7,6 +7,9 @@ using System.Web.UI.WebControls;
 
 namespace NAV
 {
+
+
+    // additional comments
     public partial class NAV : System.Web.UI.MasterPage
     {
         string sourcePage = "/report/portfoliodetails.asp"; //--->temporary!
